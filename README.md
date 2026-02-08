@@ -119,7 +119,7 @@ Trabajo con arquitecturas limpias, APIs seguras y despliegues automatizados.
 <h2 align="center">📫 Contáctame</h2>
 
 <p align="center">
-  <a href="mailto:pedrodavidarnedoromero@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="50"/></a>
+  <a href="mailto:pedrodarnedo24@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="50"/></a>
   <a href="https://www.linkedin.com/in/pedro-arnedo/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="50"/></a>
   <a href="https://pedro-arnedo-dev.web.app" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png" height="50"/></a>
 </p>
